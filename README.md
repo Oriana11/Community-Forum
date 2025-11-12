@@ -88,15 +88,6 @@ Container component that wraps Header and Body for each forum post.
 - Text: `#2c3e50` - Dark gray
 - Card background: `#ffffff` - White
 
-## 🌟 Features to Add (Future Enhancements)
-
-- [ ] Add new post functionality
-- [ ] Like/upvote system
-- [ ] Comment replies
-- [ ] User authentication
-- [ ] Backend integration
-- [ ] Search functionality
-- [ ] Post categories/tags
 
 ## 📝 License
 
@@ -105,11 +96,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 Built with ❤️ using React and Vite
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-**Enjoy building your community forum! 🚀**
